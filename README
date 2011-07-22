@@ -1,0 +1,5 @@
+See INSTALL for build instructions.
+
+This is a basic 2D tiling engine in C++ and OpenGL (GLUT) I wrote on a bus trip.  Right now if you build it and run ./engine, it will display a green field where you can move a happy face around; your movement is limited by the edges of the field and 2 solid iguanas hangin' out.  Some more work could result in this being the core of a basic old-school RPG.
+
+
